@@ -21,3 +21,7 @@
   background-image: -webkit-linear-gradient(bottom, #ddd, white);
   font-size: 12px;
 }
+
+#login-form {
+  display: none !important;
+}
